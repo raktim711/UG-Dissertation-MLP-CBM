@@ -6,6 +6,7 @@ Description of the files:
   <ul>w_detect.c: Macro to read the data, create, train and test the ANN.</ul>
   <ul>hist_eval.c: Macro to visualise the evaluated output of the ANN.</ul>
   <ul>eval_plot.c: Macro to plot the performance of the various graphical cuts.</ul>
+  <ul>w_30k.root: Data file used in w_detect.c</ul>
 </list>
 <br>
-Note- The above macros can be run from a ROOT terminal only
+Note- The above macros can be run from a ROOT terminal only 
